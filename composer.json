@@ -9,6 +9,6 @@
     "require": {
         "raveren/kint": "^1.0",
         "doctrine/inflector": "^1.0",
-        "xmarcos/carbon-client": "^0.2.0"
+        "crodas/influx-php": "^0.9.1"
     }
 }
