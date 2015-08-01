@@ -1,0 +1,14 @@
+{
+    "name": "jasonrm/surfboard-graphite",
+    "authors": [
+        {
+            "name": "Jason R. McNeil",
+            "email": "jason@jasonrm.net"
+        }
+    ],
+    "require": {
+        "raveren/kint": "^1.0",
+        "doctrine/inflector": "^1.0",
+        "xmarcos/carbon-client": "^0.2.0"
+    }
+}
